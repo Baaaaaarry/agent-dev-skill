@@ -1,6 +1,6 @@
 ---
 name: agent-team
-description: Coordinate a multi-agent software delivery workflow (arch/dev/test/review) for feature requests. Use when asked to implement or operate a development team agent workflow: requirements breakdown, dev + whitebox, Jenkins CI gate, blackbox testing, push/PR review, and rework loop.
+description: "Coordinate a multi-agent software delivery workflow (arch/dev/test/review) for feature requests. Use when asked to implement or operate a development team agent workflow: requirements breakdown, dev + whitebox, Jenkins CI gate, blackbox testing, push/PR review, and rework loop."
 ---
 
 # Agent Team
